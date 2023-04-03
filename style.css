@@ -28,6 +28,18 @@ ul {
   }
   
   li a:hover {
-    background-color: #3746ce;
+    background-color: darkgoldenrod;
   }
 
+main {
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+    padding: 20px;
+    overflow: hidden;
+    margin: 0 25px;
+}
+img {
+    float: left;
+    width: 30%;
+    margin: 20px;
+}
