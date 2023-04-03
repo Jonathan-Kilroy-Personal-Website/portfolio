@@ -39,7 +39,18 @@ main {
     margin: 0 25px;
 }
 img {
-    float: left;
     width: 30%;
     margin: 20px;
+}
+
+.right-image {
+    float: right;
+}
+
+.left-image {
+    float: left;
+}
+
+.active {
+    color: gray;
 }
