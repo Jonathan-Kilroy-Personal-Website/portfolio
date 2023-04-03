@@ -2,8 +2,11 @@
 
 ## Table of Contents
 ## Description
+Start of my portfolio website
 ## Technology Used
-HTML/JS/CSS
+-HTML
+-JS
+-CSS
 ## How to Install/Run the project
 ## Credits/Contributors Social links
 Jonathan Kilroy
