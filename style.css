@@ -68,3 +68,14 @@ img {
 .project-card img {
     border-radius: 5px 5px 0 0;
 }
+
+form {
+    background-color: goldenrod;
+    margin: 25px 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    width: 250px;
+    height: 200px;
+    border: 1px black;
+    box-sizing: border-box;
+}
